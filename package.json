@@ -20,7 +20,7 @@
     "dns.js": "^1.0.1",
     "domain-browser": "^1.2.0",
     "events": "^1.1.1",
-    "expo": "^33.0.0",
+    "expo": "^46.0.14",
     "https-browserify": "0.0.1",
     "nem2-sdk": "^0.13.0",
     "net-browserify": "^0.2.4",
